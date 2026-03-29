@@ -1,0 +1,2 @@
+train_accuracy,val_accuracy,n_train,n_val,max_new_tokens
+0.8908641975308642,0.7255555555555555,8100,900,16

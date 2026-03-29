@@ -1,0 +1,9 @@
+# Pycache
+__pycache__/
+*.pyc
+
+# Training artifacts too large for GitHub
+saved_models/**/optimizer.pt
+
+# Local logs
+wandb/
